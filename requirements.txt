@@ -1,0 +1,4 @@
+-r autogen/requirements.txt
+PyMySQL
+gunicorn
+python-decouple
